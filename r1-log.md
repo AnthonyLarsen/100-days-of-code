@@ -5,7 +5,8 @@ The log of my #100DaysOfCode challenge. Started on [January 5, Friday, 2018].
 ## Log
 
 ### R1D1 
-Today I made text responsive with an HTML e-mail template using CSS & media queries and I continued my Bootstrap education with FreeCodeCamp. Looking forward to what tomorrow will bring. Tweet - https://twitter.com/anthonydlarsen/status/949466004513591301
+Today I made text responsive with an HTML e-mail template using CSS & media queries and I continued my Bootstrap education with FreeCodeCamp. Looking forward to what tomorrow will bring. 
+Twitter - https://twitter.com/anthonydlarsen/status/949466004513591301
 
 ### R1D2
 Today I worked through FreeCodeCamp's jQuery challenges and I also made the realization that I never finished the HTML/CSS challenges. Looks like I know what I'll be doing tomorrow. jQuery was interesting to learn, I'll need to come back to get the syntax down. 
