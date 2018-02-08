@@ -76,3 +76,64 @@ Twitter - https://twitter.com/anthonydlarsen/status/956049682958086146
 ### R1D20
 Last night I learned how to increase the size of my social icons by adding an fa-3x class, unstuck my navbar since it was causing issues when the link clicks centered on the different portfolio sections and I used CSS to add brand colors to the icons. 
 Twitter - https://twitter.com/anthonydlarsen/status/956402209230610432
+
+### R1D21
+I continued with Wes Bos' CSSGrid course where I learned about sizing CSS Grid tracks & the CSS Grid repeat function. I also listened to episodes 10 & 11 of the learntocodewithme podcast. I'm really enjoying what I am learning so far! 
+Twitter - https://twitter.com/anthonydlarsen/status/956781006350176256
+
+### R1D22
+I updated and rearranged my portfolio to put the placeholder pictures at the top of the page and I made them all the same size. I'm really liking how things are looking so far. :) 
+Twitter - https://twitter.com/anthonydlarsen/status/957230984151396352
+
+### R1D23
+Tonight I spent time on YouTube learning about creating and styling cards using Bootstrap 4 and CSS as well as creating image overlays. I'm really excited to try out what I've learned tonight in the coming days.
+Twitter - https://twitter.com/anthonydlarsen/status/957478789956677633
+
+### R1D24
+Tonight I tried to create a hover effect on one of my placeholder images on my portfolio page, but I wasn't able to figure it out tonight, but I'll find a solution soon. Need to stay positive with this. 
+Twitter - https://twitter.com/anthonydlarsen/status/957861219171434496
+
+### R1D25
+I completed my Mission 1 Roles, Goals, Reality Part 2 Reality Check worksheet and I continue my work on the hover effects for my portfolio. I'm feeling good about the progress I've made and I can't wait to see what I learn next. 
+Twitter - https://twitter.com/anthonydlarsen/status/958313442657652736
+
+### R1D26
+Tonight I made progress with the hover effects on my portfolio & I think I’ll be able to finalize my portfolio tomorrow! I also started reading my Mission 2 Languages + Frameworks homework. Today was a success!
+Twitter - https://twitter.com/anthonydlarsen/status/958584440711729154
+
+### R1D27
+Today was mixed for me. I enjoyed some @learncodewithme episodes on the way home, but I’ve now gone cross eyed after battling w/ my hover effect issue. The solution is close, but I’m going to come at this again tomorrow with fresh eyes. 
+Twitter - https://twitter.com/anthonydlarsen/status/958925778678403072
+
+### R1D28
+I FINALLY figured out the hover effect & I am proud to say I finished my freeCodeCamp portfolio. It feels great to have completed this challenge!
+Twitter - https://twitter.com/anthonydlarsen/status/959311092353703936
+
+### R1D29
+Tonight I chose JavaScript for my CodeNewbies Mission 2 Languages + Frameworks challenge & I started right in on the first 5 freeCodeCamp JavaScript challenges! I'm going to take these slow so the concepts stick with me! 
+Twitter - https://twitter.com/anthonydlarsen/status/959658987330396161
+
+### R1D30
+I continued my JavaScript education tonight by reading the 1st chapter of MarijnJH’s #EloquentJavascript ebook on Values, Types, & Operators! I know JavaScript will take time, but I am excited to keep learning. 
+Twitter - https://twitter.com/anthonydlarsen/status/960021613747036160
+
+### R1D31
+Today I worked on more of freeCodeCamp's JavaScript challenges where I learning about camelCase & I used JavaScript to complete a bunch of simple math problems! Who knew math could be so much fun? :) 
+Twitter - https://twitter.com/anthonydlarsen/status/960264390086885383
+
+### R1D32
+Today was full of JavaScript fun! I did a few more freeCodeCamp challenges, read more of MarijnJH's EloquentJavaScript ebook, & I completed wesbos JavaScript Drum Kit challenge. 
+
+I learned the hard way that S does not = $ :)
+Twitter - https://twitter.com/anthonydlarsen/status/960747784663072769
+
+### R1D33
+Tonight i finished Day 2 of wesbos JavaScript30 course where we put together a CSS + JS clock, I also completed some more freeCodeCamp challenges, and I listened to epidsode 1 & 2 of season 2 of the learntocodewithme podcast on my way home. Slowly starting to understand JS more & I can’t wait to see what I learn tomorrow!
+Twitter - https://twitter.com/anthonydlarsen/status/961081700246802432 https://twitter.com/anthonydlarsen/status/961085185868562433 
+
+### R1D34
+I just finished up Day 3 of wesbos JavaScript30 course where we made updates to the CSS variables using JS to make the changes you see in the GIF. I'm going to update my github & do more freeCodeCamp JS challenges later tonight!
+Twitter - https://twitter.com/anthonydlarsen/status/961313415192088576
+
+### R1D35 
+This morning I listened to episode 3 of season 2 of the learntocodewithme podcast on my way to work today, I also completed a few more freecodecamp JavaScript challeneges,I submitted My Learn-to-Code Curriculum and I completed Day 4 of the JavaScript 30 challenge - Array Cardio Day 1.
