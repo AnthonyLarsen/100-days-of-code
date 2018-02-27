@@ -137,3 +137,78 @@ Twitter - https://twitter.com/anthonydlarsen/status/961313415192088576
 
 ### R1D35 
 This morning I listened to episode 3 of season 2 of the learntocodewithme podcast on my way to work today, I also completed a few more freecodecamp JavaScript challeneges,I submitted My Learn-to-Code Curriculum and I completed Day 4 of the JavaScript 30 challenge - Array Cardio Day 1.
+
+### R1D36
+I continued my #JS learning tonight with a number of freeCodeCamp challenges & I completed Day 5 of @wesbos JavaScript30 challenge, Flex Panel Image Gallery, where I had my 1st rewarding experience with #CSSFlexbox! 
+Twitter - https://twitter.com/anthonydlarsen/status/962215835589804033
+
+### R1D37
+Today, I learned AJAX stands for Asynchronous JavaScript & XML with wesbos #JavaScript30 challenge Day 6 Ajax Type Ahead & I read chapters 3 & 4 in EloquentJavaScript!
+Twitter - https://twitter.com/anthonydlarsen/status/962570856210853888
+
+### R1D38
+R1D38 was ArrayCardioNight2 with wesbos' JavaScript30 course & I learned more about arrays & functions with some freeCodeCamp JavaScript challenges. I like how both courses reinforce each other. It helps to make the concepts sink in more.
+Twitter - https://twitter.com/anthonydlarsen/status/962915642591629312
+
+### R1D39
+I had a blast yesterday with wesbos #JavaScript30 challenge Day 8 - Fun With HTML5 Canvas, I started gordon_zhu's PracticalJavaScript course, I learned more about JavaScript functions with freeCodeCamp.
+Twitter - https://twitter.com/anthonydlarsen/status/963349809208922112
+
+### R1D40
+I learned 14 Must Know Dev Tool Tricks with wesbos JavaScript30 course Day 9, worked  through more freeCodeCamp JavaScript challenges, & I enjoyed  S2E4 of the learncodewithme podcast featuring Stephen Mayeux!
+Twitter - https://twitter.com/anthonydlarsen/status/963763525188575235
+
+### R1D41
+I finished Day 10 of wesbos JavaScript30 course - Hold Shift to Check Multiple Checkboxes. The JavaScript code we wrote will check if the checkbox is the first clicked or the last clicked & check all the boxes inBetween! Coding more tonight! :)
+Twitter - https://twitter.com/anthonydlarsen/status/963846831133294592
+
+### R1D42
+I completed Day 11 of wesbos JavaScript30 course where we created a custom HTML5 video player with different functionality using JavaScript - we can scrub the video, change the volume levels, & there are two data skip buttons. 
+Twitter - https://twitter.com/anthonydlarsen/status/964371438453981186
+
+### R1D43
+I just completed Day 12 of wesbos JavaScript30 course - Key Sequence Detection! We used cornify_add[] to add the  & I decided to update the secretCode from 'wesbos' to 'konamicode'! :D
+Twitter - https://twitter.com/anthonydlarsen/status/964571632017821696
+
+I also continued my freeCodeCamp JavaScript education where I learned about Else statements, Else If statements, their logical progression, how to chain them together, & I completed the ️golf code challenge!
+Twitter - https://twitter.com/anthonydlarsen/status/964573334078939136
+
+### R1D44
+During my evening of coding, I completed Day 13 - Slide In on Scroll from wesbos JavaScript30 course, took down a few more freeCodeCamp JavaScript challenges, & I finished the SoloLearn JavaScript overview to help reinforce what I've learned!
+Twitter - https://twitter.com/anthonydlarsen/status/965104148546052097
+
+### R1D45
+I learned the difference between referencing an object or an array versus coping them during Day 14 of JavaScript30 from wesbos, I completed the basic concepts in the SoloLearn JavaScript tutorial, & checked off a few more freeCodeCamp challenges!
+Twitter - https://twitter.com/anthonydlarsen/status/965466332086104064
+
+### R1D46
+I completed the JavaScript objects, the dot operator, & bracket notation freeCodeCamp challenges & I learned about local storage & event delegation with Day 15 of the JavaScript30 course with wesbos. It was a good day!
+Twitter - https://twitter.com/anthonydlarsen/status/965955884210847745
+
+### R1D47
+I had a blast working on Day 16 of the JavaScript30 course, I worked more with JavaScript objects on freeCodeCamp, & I listened to S2E7/8 of the learncodewithme podcast featuring Bryan Knight and Quincy Larson! 
+Twitter - https://twitter.com/anthonydlarsen/status/966182015409238016
+
+### R1D48
+ My #JavaScript fun continued with Day 17 of JavaScript30, I learned what JSON stands for, I made some new friends, For Loop & While Loop, & I listened to S2E9 of the learncodewithme podcast feat. Venngage cofounder, Eugene Woo!
+Twitter - https://twitter.com/anthonydlarsen/status/966501530751983616
+
+### R1D49
+I completed Day 18 of the JavaScript30 course & I took down 5 more freeCodeCamp JavaScript challenges! I can't believe tomorrow is D50 & I am almost finished with the basic JavaScript challenges. Object orientated & functional programming is next!
+Twitter - https://twitter.com/anthonydlarsen/status/966867922827251714
+
+### R1D50
+I started the object-oriented & functional programming freeCodeCamp JavaScript challenges, had some JavaScript photobooth fun on Day 19 of the JavaScript30 course, & I ended the day with S2E10 of the learncodewithme podcast featutring LisaDSmith!
+Twitter - https://twitter.com/anthonydlarsen/status/967241490828349440
+
+### R1D51
+Tonight I learned how to iterate over w/ .map, condense w/ .reduce, & filter w/ .filter arrays during my freeCodeCamp challenges & I also had fun with Day 20 of the JavaScript30 course! Can't wait for tomorrow's coding fun! 
+Twitter - https://twitter.com/anthonydlarsen/status/967632169396039681
+
+### R1D52
+Tonight I completed Day 21 of the JavaScript30 course and I finished the final 5 object-oriented & functional programming JavaScript challenges on freeCodeCamp! Tomorrow I start basic algorithm scripting!
+Twitter - https://twitter.com/anthonydlarsen/status/967968197491216384
+
+### R1D53
+I completed Day 22 of the JavaScript30 challenge, read up on string split() for the Reverse a String freeCodeCamp challenge (I WILL figure this out!), & enjoyed S2E11 of the learncodewithme podcast featuring Debbie Milburn!
+Twitter - https://twitter.com/anthonydlarsen/status/968337813262528515 
